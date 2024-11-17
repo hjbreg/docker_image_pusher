@@ -1,2 +1,2 @@
-pycaret/full
+--alias=pycaret pycaret/full
 pytorch/pytorch
