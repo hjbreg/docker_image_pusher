@@ -1,3 +1,4 @@
 --alias=pycaret pycaret/full
 pytorch/pytorch
+tensorflow/tensorflow
 mathworks/matlab
