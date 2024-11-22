@@ -1,6 +1,7 @@
-busybox
 alpine
-httpd
+ubuntu:24.04
+ubuntu:22.04
+ubuntu:20.04
 --alias=pycaret pycaret/full
 pytorch/pytorch
 tensorflow/tensorflow
