@@ -2,6 +2,11 @@ alpine
 ubuntu:24.04
 ubuntu:22.04
 ubuntu:20.04
+centos:centos6
+centos:centos7
+centos:centos8
+rockylinux:9.3
+rockylinux:8.9
 condaforge/miniforge3:24.9.2-0
 condaforge/mambaforge:24.9.2-0
 pytorch/pytorch:2.5.1-cuda12.4-cudnn9-runtime
