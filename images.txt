@@ -2,6 +2,8 @@ alpine
 ubuntu:24.04
 ubuntu:22.04
 ubuntu:20.04
---alias=pycaret pycaret/full
-pytorch/pytorch
-tensorflow/tensorflow
+condaforge/miniforge3:24.9.2-0
+condaforge/mambaforge:24.9.2-0
+pytorch/pytorch:2.5.1-cuda12.4-cudnn9-runtime
+tensorflow/tensorflow:2.18.0-gpu
+shengqh/annovar:20241117
