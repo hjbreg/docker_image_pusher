@@ -12,3 +12,4 @@ condaforge/mambaforge:24.9.2-0
 pytorch/pytorch:2.5.1-cuda12.4-cudnn9-runtime
 tensorflow/tensorflow:2.18.0-gpu
 intel/intel-optimized-ml:2024.7.0-pip-base
+--alias=intel-python intel/python:3.12-full
