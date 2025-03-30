@@ -5,6 +5,7 @@ alpine:3.18
 ubuntu:24.04
 ubuntu:22.04
 ubuntu:20.04
+ubuntu:18.04
 centos:centos6
 centos:centos7
 centos:centos8
