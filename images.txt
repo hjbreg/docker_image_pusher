@@ -11,5 +11,4 @@ centos:centos7
 centos:centos8
 rockylinux:9
 rockylinux:8
-intel/intel-optimized-ml:2024.7.0-pip-base
---alias=intel-python intel/python:3.12-full
+intel/classical-ml:2025.1.1-py3.11
